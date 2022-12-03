@@ -3,4 +3,5 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dianexjeong)](https://solved.ac/dianexjeong)
 #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianexjeong&layout=compact)
 
