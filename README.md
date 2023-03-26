@@ -33,6 +33,10 @@ I speak English, Korean, German, and a bit of French and Spanish!
 
 #
 ### Stats 📊
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dianexjeong&layout=compact)
-<!-- ![Di's GitHub stats](https://github-readme-stats.vercel.app/api?username=dianexjeong&show_icons=true&bg_color=00000000) -->
+  <a href="https://github.com/dianexjeong">
+    <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianexjeong&layout=compact" />
+  </a>
+  <a href="https://github.com/dianexjeong">
+    <img align="center" height=160 src="https://github-readme-stats.vercel.app/api?username=dianexjeong&show_icons=true&bg_color=00000000" />
+  </a>
 
