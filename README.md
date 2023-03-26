@@ -5,7 +5,7 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dianexjeong)](https://solved.ac/dianexjeong)
 
 I'm a fast-learning and passionate developer, always taking small steps towards achieving big goals! <br>
-I speak English, Korean, German, and a bit of French and Spanish!
+I speak English, Korean, and a bit of German!
 
 #
 
