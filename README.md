@@ -40,4 +40,6 @@ I speak English, Korean, and a bit of German!
     <img align="center" height=160 src="https://github-readme-stats-dianexjeong.vercel.app/api?username=dianexjeong&show_icons=true&bg_color=00000000" />
   </a>
   <br/>
-  ![Snake animation](https://github.com/dianexjeong/dianexjeong/github-readme/blob/output/github-contribution-snake.svg)
+  <a href="https://github.com/Platane/snk" target='_blank'>
+    <img align="center" src="https://github.com/dianexjeong/dianexjeong/blob/output/github-contribution-grid-snake.svg" />
+  </a>
