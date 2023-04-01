@@ -1,11 +1,18 @@
-### Hi, I'm Di! 👻 
+<div align="center">
+  
+<div id="user-content-toc">
+  <ul>
+    <summary><h1 style="display: inline-block;">Hi, I'm Di! 👻</h1></summary>
+  </ul>
+</div>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdianexjeong&count_bg=%237DAEEF&title_bg=%23808080&icon=&icon_color=%23E7E7E7&title=jeewoo&edge_flat=false"/></a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dianexjeong)](https://solved.ac/dianexjeong)
 
-I'm a fast-learning and passionate developer, always taking small steps towards achieving big goals! <br>
-I speak English, Korean, and a bit of German!
+<!--I'm a fast-learning and passionate developer,  <br>
+always taking small steps towards achieving big goals! <br>
+I speak English, Korean, and a bit of German!-->
 
 #
 
@@ -33,13 +40,16 @@ I speak English, Korean, and a bit of German!
 
 #
 ### Stats 📊
+
   <a href="https://github.com/dianexjeong">
     <img align="center" height=160 src="https://github-readme-stats-dianexjeong.vercel.app/api/top-langs/?username=dianexjeong&langs_count=6&layout=compact" />
   </a>
   <a href="https://github.com/dianexjeong">
     <img align="center" height=160 src="https://github-readme-stats-dianexjeong.vercel.app/api?username=dianexjeong&show_icons=true&bg_color=00000000" />
   </a>
-  <br/>
+<br>
+  <br>
   <a href="https://github.com/Platane/snk" target='_blank'>
     <img align="center" src="https://github.com/dianexjeong/dianexjeong/blob/output/github-contribution-grid-snake.svg" />
   </a>
+</div>
