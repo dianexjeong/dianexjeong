@@ -47,9 +47,4 @@ I speak English, Korean, and a bit of German!-->
   <a href="https://github.com/dianexjeong">
     <img align="center" height=160 src="https://github-readme-stats-dianexjeong.vercel.app/api?username=dianexjeong&show_icons=true&bg_color=00000000" />
   </a>
-<br>
-  <br>
-  <a href="https://github.com/Platane/snk" target='_blank'>
-    <img align="center" src="https://github.com/dianexjeong/dianexjeong/blob/output/github-contribution-grid-snake.svg" />
-  </a>
 </div>
