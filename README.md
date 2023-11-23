@@ -10,9 +10,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dianexjeong)](https://solved.ac/dianexjeong)
 
-<!--I'm a fast-learning and passionate developer,  <br>
-always taking small steps towards achieving big goals! <br>
-I speak English, Korean, and a bit of German!-->
+#
+
+### Projects 🐳
+|Project|Date|Stacks|
+|------|---|---|
+|[**아기고래**](https://www.babywhale.info)|23.09~|<img src="https://img.shields.io/badge/bolt.js-F3AB24?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">|
 
 #
 
