@@ -15,7 +15,7 @@
 ### Projects 🐳
 |Project|Date|Stacks|
 |------|---|---|
-|[**아기고래**](https://www.babywhale.info)|23.09~|<img src="https://img.shields.io/badge/bolt.js-F3AB24?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">|
+|[**아기고래**](https://www.babywhale.io)|23.09~|<img src="https://img.shields.io/badge/bolt.js-F3AB24?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">|
 
 #
 
